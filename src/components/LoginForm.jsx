@@ -30,7 +30,7 @@ const Auth = () => {
       {/* Navbar */}
       <div className="w-full flex justify-between items-center p-4">
         <div className="flex items-center gap-2">
-          <img src="./src/assets/images/logo.png" alt="Logo" className="h-14 rounded-full" />
+          <img src="../assets/images/logo.png" alt="Logo" className="h-14 rounded-full" />
           
         </div>
         <div className="flex gap-6 items-center text-sm font-semibold text-black">
