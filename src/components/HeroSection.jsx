@@ -1,5 +1,6 @@
 import React from "react";
 import ChefImage from "../assets/images/chef-image.png"; 
+import { Link } from "react-router-dom";
 
 const HeroSection = () => {
   return (
