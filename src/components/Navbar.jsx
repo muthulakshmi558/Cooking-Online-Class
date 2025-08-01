@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-3 flex items-center justify-between">
         <Link to="/home" className="flex items-center space-x-3 group cursor-pointer">
           <img
-            src="./src/assets/images/logo.png"
+            src="../assets/images/logo.png"
             alt="Logo"
             className="h-[110px] w-auto rounded-full"
           />
